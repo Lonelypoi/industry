@@ -1,0 +1,7 @@
+{
+    "silver=new item"("silver",Color.valueOf("F0F0F0")){{
+        "hardness=1"
+        "cost=0.5F"
+        "alwaysUnlocked=true;"
+    }};
+}
